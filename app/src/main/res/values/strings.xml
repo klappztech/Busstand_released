@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Busstand</string>
+    <string name="dont_know_bus_no">Don\'t know <u>bus number?</u></string>
+
+</resources>
