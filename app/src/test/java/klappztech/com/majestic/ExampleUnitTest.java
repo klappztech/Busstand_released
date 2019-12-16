@@ -1,4 +1,4 @@
-package com.klappztech.platform;
+package klappztech.com.majestic;
 
 import org.junit.Test;
 

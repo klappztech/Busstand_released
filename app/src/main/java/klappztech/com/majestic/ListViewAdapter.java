@@ -1,4 +1,4 @@
-package com.klappztech.platform;
+package klappztech.com.majestic;
 
 import android.app.Activity;
 import android.content.Context;
@@ -11,6 +11,8 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
+import com.klappztech.majestic.R;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -22,7 +24,7 @@ public class ListViewAdapter extends ArrayAdapter {
 
     public ListViewAdapter(List<String> BusNo, List<String> Destination, Context context)
     {
-        super(context,R.layout.item_layout,BusNo);
+        super(context, R.layout.item_layout,BusNo);
         this.context        = context;
         this.BusNo          = BusNo;
         this.Destination    = Destination;

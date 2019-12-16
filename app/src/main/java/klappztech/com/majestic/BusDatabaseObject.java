@@ -1,4 +1,4 @@
-package com.klappztech.platform;
+package klappztech.com.majestic;
 
 /**
  * Created by mahc on 10/7/2015.

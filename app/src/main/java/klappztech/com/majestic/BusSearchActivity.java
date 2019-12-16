@@ -1,4 +1,4 @@
-package com.klappztech.platform;
+package klappztech.com.majestic;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -16,8 +16,7 @@ import android.widget.Toast;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
-import com.google.android.gms.ads.initialization.InitializationStatus;
-import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
+import com.klappztech.majestic.R;
 
 import java.io.IOException;
 import java.util.List;
@@ -46,7 +45,8 @@ public class BusSearchActivity extends AppCompatActivity {
         openDB();
 
         //admob
-        MobileAds.initialize(this, "ca-app-pub-3940256099942544~3347511713"); //TODO: test
+        //MobileAds.initialize(this, "ca-app-pub-3940256099942544~3347511713"); //TODO: test id
+        MobileAds.initialize(this, "ca-app-pub-4450171976386759/7171609025");
         mAdView = findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
@@ -63,7 +63,7 @@ public class BusSearchActivity extends AppCompatActivity {
         autocomplete_bus.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Toast.makeText(getApplicationContext(), "id clicked: " + id, Toast.LENGTH_SHORT).show();
+                //Toast.makeText(getApplicationContext(), "id clicked: " + id, Toast.LENGTH_SHORT).show();
                 searchBus(view);
             }
         });

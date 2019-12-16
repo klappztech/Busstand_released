@@ -24,12 +24,14 @@
         card_view:contentPadding="10dp">
 
         <LinearLayout
-            android:layout_width="150dp"
+            android:layout_width="200dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginTop="32dp"
             android:layout_marginBottom="16dp"
-            android:orientation="vertical">
+            android:orientation="vertical"
+
+            >
 
             <TextView
                 android:layout_width="match_parent"
@@ -109,7 +111,7 @@
 
     <androidx.cardview.widget.CardView
         android:layout_width="match_parent"
-        android:layout_height="500dp"
+        android:layout_height="600dp"
         android:layout_margin="10dp"
         card_view:cardCornerRadius="16dp"
         card_view:cardElevation="4dp"
@@ -118,7 +120,7 @@
         <ImageView
             android:id="@+id/imageView"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             card_view:srcCompat="@drawable/map" />
     </androidx.cardview.widget.CardView>
 

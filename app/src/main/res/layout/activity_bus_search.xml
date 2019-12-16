@@ -11,17 +11,17 @@
         android:id="@+id/autocomplete_bus_no"
         android:layout_width="match_parent"
         android:layout_height="62dp"
+        android:layout_marginHorizontal="38dp"
         android:layout_marginTop="100dp"
         android:completionThreshold="1"
-        android:layout_marginHorizontal="38dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
         android:drawableLeft="@android:drawable/ic_menu_search"
         android:gravity="center"
-        android:selectAllOnFocus="true"
         android:hint="Enter Bus No"
-        ></AutoCompleteTextView>
+        android:selectAllOnFocus="true"
+        android:textColor="@color/cardview_light_background"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"></AutoCompleteTextView>
 
     <TextView
         android:id="@+id/textView3"
@@ -30,6 +30,7 @@
         android:layout_marginTop="32dp"
         android:linksClickable="true"
         android:onClick="dontKnowBusNo"
+        android:padding="10dp"
         android:text="@string/dont_know_bus_no"
         android:textColor="@color/colorAccent"
         android:textStyle="italic"

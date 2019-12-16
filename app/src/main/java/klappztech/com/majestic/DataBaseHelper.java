@@ -1,4 +1,4 @@
-package com.klappztech.platform;
+package klappztech.com.majestic;
 
 import android.content.Context;
 import android.database.Cursor;
@@ -14,7 +14,7 @@ import java.io.OutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
+/**execSQL
  * Created by mahc on 9/22/2015.
  */
 public class DataBaseHelper extends SQLiteOpenHelper {
@@ -47,7 +47,7 @@ public class DataBaseHelper extends SQLiteOpenHelper {
      * */
     public void createDataBase() throws IOException {
 
-        boolean dbExist = checkDataBase();
+        boolean dbExist = false;//checkDataBase(); //TODO: check later
         //its a hack for some devices
         SQLiteDatabase db_Read = null;
 

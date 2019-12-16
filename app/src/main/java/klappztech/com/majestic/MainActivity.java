@@ -1,4 +1,4 @@
-package com.klappztech.platform;
+package klappztech.com.majestic;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -16,17 +16,15 @@ import android.widget.RatingBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.google.android.gms.ads.AdListener;
-import com.google.android.gms.ads.AdLoader;
 import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
 import com.google.android.gms.ads.NativeExpressAdView;
-import com.google.android.gms.ads.formats.NativeAdOptions;
-import com.google.android.gms.ads.formats.UnifiedNativeAd;
+import com.klappztech.majestic.BuildConfig;
+import com.klappztech.majestic.R;
 
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.RandomAccess;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -46,6 +44,9 @@ public class MainActivity extends AppCompatActivity {
     private RatingBar ratingBar;
 
     private NativeExpressAdView nativeExpressAdView;
+    private InterstitialAd interstitialAd;
+
+
 
 
     @Override
@@ -58,6 +59,12 @@ public class MainActivity extends AppCompatActivity {
         openDB();
 
         //admob
+        interstitialAd = new InterstitialAd(this);
+        //interstitialAd.setAdUnitId("ca-app-pub-3940256099942544/1033173712"); //test ad id
+        interstitialAd.setAdUnitId("ca-app-pub-4450171976386759/7967514343");
+        interstitialAd.loadAd(new AdRequest.Builder().build());
+
+
 
         //admob END
 
@@ -134,6 +141,14 @@ public class MainActivity extends AppCompatActivity {
         });
     } //OnCreate
 
+    @Override
+    protected void onStop() {
+        super.onStop();
+        if(interstitialAd.isLoaded()) {
+            interstitialAd.show();
+        }
+
+    }
     //////////// DB functions //////////
 
     private void openDB() {
