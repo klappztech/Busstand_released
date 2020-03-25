@@ -16,6 +16,8 @@ import android.widget.Toast;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.MobileAds;
+import com.google.android.gms.ads.initialization.InitializationStatus;
+import com.google.android.gms.ads.initialization.OnInitializationCompleteListener;
 import com.klappztech.majestic.R;
 
 import java.io.IOException;
@@ -34,6 +36,11 @@ public class BusSearchActivity extends AppCompatActivity {
     private AdView mAdView;
 
 
+    @Override
+    protected void onStart() {
+        super.onStart();
+        autocomplete_bus.setText("");
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,7 +53,16 @@ public class BusSearchActivity extends AppCompatActivity {
 
         //admob
         //MobileAds.initialize(this, "ca-app-pub-3940256099942544~3347511713"); //TODO: test id
-        MobileAds.initialize(this, "ca-app-pub-4450171976386759/7171609025");
+        //MobileAds.initialize(this, "ca-app-pub-4450171976386759/7171609025");// old
+        //MobileAds.initialize(this, "ca-app-pub-4450171976386759/4060128735");//new
+        MobileAds.initialize(this, "ca-app-pub-4450171976386759~5694875820");//new APP id, NOT AdUnit Id
+
+        /* MobileAds.initialize(this, new OnInitializationCompleteListener() {
+            @Override
+            public void onInitializationComplete(InitializationStatus initializationStatus) {
+            }
+        }); */
+
         mAdView = findViewById(R.id.adView);
         AdRequest adRequest = new AdRequest.Builder().build();
         mAdView.loadAd(adRequest);
@@ -68,7 +84,8 @@ public class BusSearchActivity extends AppCompatActivity {
             }
         });
 
-        autocomplete_bus.requestFocus();
+        //autocomplete_bus.requestFocus();
+
 
     }
 

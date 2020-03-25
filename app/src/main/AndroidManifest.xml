@@ -12,13 +12,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="klappztech.com.majestic.BusSearchActivity">
+        <activity android:name="klappztech.com.majestic.BusSearchActivity" android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="klappztech.com.majestic.MainActivity"
+        <activity android:name="klappztech.com.majestic.MainActivity" android:screenOrientation="portrait"
             android:parentActivityName="klappztech.com.majestic.BusSearchActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

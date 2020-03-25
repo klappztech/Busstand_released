@@ -1,0 +1,571 @@
+SL No.,Platform,Bus Route,Starting From,Destination
+1,1,87,Kempegowda Bus Stand,HAMPINAGAR R.P.C. LAYOUT
+2,1,87A,Kempegowda Bus Stand,HAMPINAGAR R.P.C. LAYOUT
+3,1,87B,Kempegowda Bus Stand,GANGONDANAHALLI
+4,1,87C,,HAMPINAGAR R.P.C. LAYOUT
+5,2,61,Kempegowda Bus Stand,VIJAYANAGAR TTMC
+6,2,61A,Kempegowda Bus Stand,CHANDRA LAYOUT
+7,2,61C,Kempegowda Bus Stand,BCC LAYOUT
+8,2,61E,Kempegowda Bus Stand,VIJAYANAGAR TTMC
+9,2,61F,Kempegowda Bus Stand,GKW LAYOUT
+10,2,61G,Kempegowda Bus Stand,CHANDRA LAYOUT
+11,2,61J,Kempegowda Bus Stand,CHANDRA LAYOUT 1ST STAGE
+12,2,61M,Kempegowda Bus Stand,VIDYAGIRI BADAVANE
+13,3A,238,Kempegowda Bus Stand,NRUPATHUNGA NAGAR
+14,3A,238A,Kempegowda Bus Stand,NAGARBHAVI 1ST BLOCK
+15,3A,238C,Kempegowda Bus Stand,BANDEMARAMMA BUS STAND
+16,3A,238L,Kempegowda Bus Stand,NRUPATHUNGA NAGAR
+17,3A,238U,Kempegowda Bus Stand,BANGALORE UNIVERSITY ADM OFFICE
+18,3A,238V,Kempegowda Bus Stand,DR. AMBEDKAR INSTITUTE OF TECHNOLOGY
+19,3A,238W,Kempegowda Bus Stand,NARASAPURA
+20,3A,238ZA,Kempegowda Bus Stand,ULLALA UPANAGAR
+21,3A,223P,Kempegowda Bus Stand,UPKAR RESIDENCY
+22,3A,223PA,Kempegowda Bus Stand,UPKAR RESIDENCY
+23,3A,234C,,MANGANAHALLI
+24,3A,238UC,,M VISWESHWARAYA LYT (MALLATHAHALLI KERE)
+25,4,240D,Kempegowda Bus Stand,SUNKADAKATTE
+26,4,240H,Kempegowda Bus Stand,G HOSAHALLI
+27,4,240R,Kempegowda Bus Stand,KACHOHALLI
+28,4,241B,Kempegowda Bus Stand,KENCHANAPURA
+29,4,241CB,Kempegowda Bus Stand,YALEKODIGEHALLI
+30,4,241H,Kempegowda Bus Stand,MAHADESHWARA NAGARA (NAGARAHOLE NAGARA)
+31,4,244H,Kempegowda Bus Stand,NAGARABHAVI 11TH BLOCK
+32,4,246,Kempegowda Bus Stand,ANNAPOORNESHWARI NAGAR
+33,4,240DA,,KOTTIGEPALAYA
+34,4,244C,,NAGARABHAVI 10TH BLOCK
+35,4,244F,,D' GROUP LAYOUT
+36,4A,243L,Kempegowda Bus Stand,LINGADEERANAHALLI
+37,4A,245A,Kempegowda Bus Stand,SONDEKOPPA
+38,4A,245GA,Kempegowda Bus Stand,KADABAGERE
+39,4A,245J,Kempegowda Bus Stand,KITTANAHALLI
+40,4A,245K,Kempegowda Bus Stand,AVERAHALLI
+41,4A,245M,Kempegowda Bus Stand,VADDARAHALLI TRAINING SCHOOL
+42,4A,245MA,Kempegowda Bus Stand,KAMMASANDRA
+43,4A,245Q,Kempegowda Bus Stand,BETTANAHALLI
+44,4A,G7,Kempegowda Bus Stand,JANAPRIYA TOWNSHIP
+45,4B,248J,,HESARAGHATTA
+46,4B,265,,RING ROUTE
+47,4B,265B,,THIGALARA PALYA
+48,4B,265D,,VIGNESHWARA NAGAR
+49,4B,265E,,MATHAHALLI
+50,4B,265F,,PEENYA 2ND STAGE
+51,4B,275B,,RING ROUTE
+52,5,88,Kempegowda Bus Stand,BASAVESHWARANAGAR
+53,5,88A,Kempegowda Bus Stand,BASAVESHWARANAGAR 3RD STAGE
+54,5,96,Kempegowda Bus Stand,RING ROUTE
+55,5,96A,Kempegowda Bus Stand,RING ROUTE
+56,5,96B,Kempegowda Bus Stand,KAMALANAGAR B.E.M.L LAYOUT
+57,5,96C,Kempegowda Bus Stand,KAMALANAGAR
+58,5,96E,Kempegowda Bus Stand,KAMALANAGAR B.E.M.L LAYOUT
+59,5,96G,Kempegowda Bus Stand,SHANKARNAG BUS STAND
+60,5,96H,Kempegowda Bus Stand,SHANKARNAG BUS STAND
+61,6,89A,Kempegowda Bus Stand,KAVERI NAGAR
+62,6,89B,Kempegowda Bus Stand,GELAYARA BALAGA
+63,6,89C,Kempegowda Bus Stand,KAVERI NAGAR
+64,6,89D,Kempegowda Bus Stand,KURUBARAHALLI (J.C NAGAR)
+65,6,89E,Kempegowda Bus Stand,KAVERI NAGAR
+66,6,89F,Kempegowda Bus Stand,GELEYARA BALAGA (VIA BHOVI PALYA)
+67,6A,78A,Kempegowda Bus Stand,ISKCON TEMPLE
+68,6A,78E,Kempegowda Bus Stand,YESHVANTHPURA RAILWAY STATION
+69,6A,80A,Kempegowda Bus Stand,NANDINI LAYOUT
+70,6A,80B,Kempegowda Bus Stand,JAI MARUTHI NAGAR
+71,6A,80D,Kempegowda Bus Stand,JAI MARUTHI NAGAR
+72,6A,80F,Kempegowda Bus Stand,JAI BHUVNESWARI NAGAR
+73,6A,80K,Kempegowda Bus Stand,SAKAMMA LAYOUT
+74,7,80,Kempegowda Bus Stand,MAHALAKSHMI LAYOUT
+75,7,80E,Kempegowda Bus Stand,KRISHNANANDA NAGAR
+76,7,80G,Kempegowda Bus Stand,LAGERE
+77,7,80R,Kempegowda Bus Stand,DR. RAJKUMAR PUNYA BHOOMI
+78,7,252F,Kempegowda Bus Stand,PEENYA 2ND STAGE
+79,7,252FC,Kempegowda Bus Stand,THIGALARA PALYA
+80,7,252H,Kempegowda Bus Stand,RAJIV GANDHI NAGAR
+81,7,264,Kempegowda Bus Stand,RING ROUTE
+82,8,31,,N.R COLONY
+83,8,210J,,CHIKKALLASANDRA (RAMANJANEYA LAYOUT)
+84,8,210KA,,CHIKKALLASANDRA
+85,8,210N,,UTTARAHALLI
+86,8,210NA,,POORNAPRAGNA LAYOUT
+87,8,210NB,,BANASHANKARI 5ND STAGE
+88,8,210ND,,BANASHANKARI 5ND STAGE (PATALAMMA TEMPLE)
+89,8,210NH,,UTTARAHALLI
+90,8,210NP,,POORNAPRAGNA LAYOUT
+91,8,210P,,CHIKKALLASANDRA
+92,8,210W,,KARIYANA PALYA
+93,8,210WA,,TURAHALLI
+94,8A,45E,Kempegowda Bus Stand,CHANNAMANNAKERE ACHUKATTU
+95,8A,45F,Kempegowda Bus Stand,CHANNAMANNAKERE ACHUKATTU
+96,8A,V-45G,Kempegowda Bus Stand,CHANNAMANNAKERE ACHUKATTU
+97,8A,45G,,CHANNAMANNAKERE ACHUKATTU
+98,8A,46,,KORAMANGALA
+99,8A,46A,,JAYANAGAR T.T.M.C
+100,9,43,Kempegowda Bus Stand,SRI VIDYA NAGAR
+101,9,43A,Kempegowda Bus Stand,VIVEKANANDA NAGAR
+102,9,43B,Kempegowda Bus Stand,HOSAKEREHALLI
+103,9,43C,Kempegowda Bus Stand,MUNEESHWARA NAGAR KEREKODI
+104,9,43D,Kempegowda Bus Stand,VEERABHADRA NAGAR
+105,9,43E,Kempegowda Bus Stand,SRI VIDYA NAGAR
+106,9,43H,Kempegowda Bus Stand,PRAMOD LAYOUT
+107,9,43J,,KRISHNAPPA BADAVANE
+108,9,43M,,HARIDASAPURA
+109,10,10,Kempegowda Bus Stand,AVALAHALLI BDA PARK
+110,10,10J,Kempegowda Bus Stand,AVALAHALLI BDA PARK
+111,10,36,Kempegowda Bus Stand,KALIDASA LAYOUT
+112,10,36A,Kempegowda Bus Stand,AVALAHALLI BDA PARK
+113,10,36B,Kempegowda Bus Stand,GIRINAGARA 2ND STAGE
+114,10,36D,Kempegowda Bus Stand,MUNEESHWARA BLOCK
+115,10,36F,Kempegowda Bus Stand,KALIDASA LAYOUT
+116,10,36G,Kempegowda Bus Stand,AVALAHALLI NEW BDA LAYOUT
+117,10,35,,KEMPEGOWDA NAGAR SWIMMING POOL
+118,11,2,Kempegowda Bus Stand,JP NAGARA 6TH PHASE
+119,11,2B,Kempegowda Bus Stand,ELIYAZNAGAR G.N SCHOOL
+120,11,2E,Kempegowda Bus Stand,JP NAGAR 6TH PHASE
+121,11A,215D,,ESHWARA LAYOUT
+122,11A,215E,,ESHWARA LAYOUT
+123,11A,215H,,JAMBU SAVARI DINNE
+124,11A,V-215H,,JAMBU SAVARI DINNE
+125,11A,215HA,,LAL BAHADUR SHASTRI NAGAR 2ND BLOCK
+126,11A,215HC,,ACHAPPA LAYOUT
+127,11A,215J,,KOTHANOOR
+128,11A,215M,,J.P NAGAR 5TH PHASE
+129,11A,215MB,,BRIGADE MILLENIUM
+130,11A,215N,,ANJANAPURA
+131,11A,215NA,,AMRUTHANAGAR
+132,11A,215NB,,NANDI GARDEN (AVALAHALLI)
+133,11A,215NC,,ANJANAPURA 10TH BLOCK
+134,11A,215R,,KOTHANOOR
+135,11B,18,,ATAL BIHARI VAJPAYEE BUS STAND
+136,11B,22,,BYRASANDRA NEW BUS STAND
+137,11B,25A,,KUVEMPU NAGARA (B.T.M LAYOUT)
+138,11B,25B,,B.T.M LAYOUT SOUTH 
+139,11B,25C,,RING ROUTE
+140,11B,25E,,J.P NAGAR 3RD PHASE
+141,11B,25G,,KUVEMPU NAGARA (B.T.M LAYOUT)
+142,11B,25H,,NAYANAPPASHETTY PALYA
+143,11B,25J,,TAVAREKERE
+144,11B,25N,,B.T.M LAYOUT SOUTH 
+145,11B,26,,BYRASANDRA NEW BUS STAND
+146,12,12,Kempegowda Bus Stand,BANASHANKARI T.T.M.C
+147,12,12D,Kempegowda Bus Stand,KADIRENAHALLI PARK
+148,12,12F,Kempegowda Bus Stand,UMARBAGH BADAVANE
+149,12,210E,Kempegowda Bus Stand,VASANTHAPURA
+150,12,210EA,Kempegowda Bus Stand,KENGERI T.T.M.C
+151,12,211J,,VADERAHALLI
+152,12,211L,,B.C.C LAYOUT
+153,12,211U,,JUDICIAL LAYOUT
+154,12,212D,,AGARA
+155,12,212F,,THATHAGUNI
+156,12,213N,,NETTIGERE
+157,12,217D,,GATTIGERE PALYA
+158,12,KBS-5H,,HAROHALLI
+159,12A,15C,,KUMARASWAMI LAYOUT
+160,12A,15E,,KUMARASWAMI LAYOUT
+161,12A,15G,,KUMARASWAMI LAYOUT 2ND STAGE
+162,12A,210A,,ISRO LAYOUT
+163,12A,210AA,,ISRO LAYOUT
+164,12A,210HB,,UTTARAHALLI (VIA KADIRENAHALLI)
+165,12A,210R,,VASANTHAPURA
+166,12A,210U,,KUMARASWAMI LAYOUT WEST
+167,12A,210X,,CHANDRA NAGARA
+168,12A,210Z,,CHIKKALLASANDRA NAIDU LAYOUT
+169,13B,364F,Kempegowda Bus Stand,NARAYANAPPANA HALLI
+170,13B,364G,Kempegowda Bus Stand,KODICHIKKANA HALLI
+171,14,V-342F,,SARJAPURA
+172,14A,165J,Kempegowda Bus Stand,KORAMANGALA 8TH BLOCK
+173,14A,168D,Kempegowda Bus Stand,TAVAREKERE
+174,14A,168E,Kempegowda Bus Stand,JAI BHEEMANAGARA
+175,14A,168F,Kempegowda Bus Stand,OLD GURAPPANAPALYA
+176,14A,171,Kempegowda Bus Stand,KORAMANGALA
+177,14A,171B,Kempegowda Bus Stand,KORAMANGALA 8TH BLOCK
+178,14A,171C,Kempegowda Bus Stand,KORAMANGALA KENDRIYA SADANA
+179,14A,171D,Kempegowda Bus Stand,VENKATAPURA
+180,14B,171F,Kempegowda Bus Stand,KORAMANGALA HOUSING COMPANY
+181,14B,171G,Kempegowda Bus Stand,KORAMANGALA
+182,14B,171H,Kempegowda Bus Stand,KORAMANGALA HOUSING COMPANY
+183,14B,171J,Kempegowda Bus Stand,KORAMANGALA
+184,14B,171PP,Kempegowda Bus Stand,KORAMNAGALA
+185,15,V-356,,CHANDAPURA
+186,15,V-356C,,ELECTRONIC CITY WIPRO GATE
+187,15,V-356M,,ANEKAL
+188,15A,V-360B,,ATTIBELE
+189,17,V-335E,,KADUGODI BUS STATION
+190,17,V-335EK,,HOSKOTE
+191,17,V-335EP,,RING ROUTE
+192,17D,335A,Kempegowda Bus Stand,SATHYA SAI HOSPITAL
+193,17D,335F,Kempegowda Bus Stand,LAL BAHADUR SHASTRI NAGAR
+194,17D,336B,Kempegowda Bus Stand,KEMPAPURA
+195,17D,381,Kempegowda Bus Stand,THIMMASANDRA
+196,18,V-305D,Kempegowda Bus Stand,CHINNASANDRA
+197,18,V-317A,Kempegowda Bus Stand,HOSAKOTE
+198,18,V-319CT,Kempegowda Bus Stand,WHITEFIELD TTMC
+199,18A,138,,JEEVANBHEEMA NAGAR
+200,18A,314B,Kempegowda Bus Stand,C.V. RAMAN NAGAR
+201,18A,314D,Kempegowda Bus Stand,MALLESH PALYA
+202,18A,314F,Kempegowda Bus Stand,VIBHUTHIPURA SAMUDYA BHAVANA
+203,18A,314G,Kempegowda Bus Stand,BYRASANDRA
+204,18A,314H,Kempegowda Bus Stand,MALLESH PALYA
+205,18A,314T,Kempegowda Bus Stand,BASAVANAGAR
+206,18A,314X,Kempegowda Bus Stand,ABBAIAREDDY LAYOUT
+207,19,126,Kempegowda Bus Stand,JEEVANAHALLI
+208,19,129,Kempegowda Bus Stand,SHIVAJINAGAR
+209,19,290,Kempegowda Bus Stand,NAGAVARA
+210,19,290B,Kempegowda Bus Stand,NAGAVARA
+211,19,290J,Kempegowda Bus Stand,MESTRI PALYA
+212,19,290T,Kempegowda Bus Stand,HBR LAYOUT 1ST STAGE
+213,19,291H,Kempegowda Bus Stand,RK HEGDE NAGAR
+214,19,291M,Kempegowda Bus Stand,GOVINDAPURA
+215,19C,296,,HENNUR CROSS
+216,19C,296A,,YARAPPANAHALLI
+217,19C,296B,,H.B.R LAYOUT 5TH STAGE
+218,19C,296C,,KALYAN NAGAR
+219,19C,296F,,MARASANDRA
+220,19C,296N,,KADU AGRAHARA
+221,19C,296T,,H.B.R 1ST STAGE
+222,19C,296V,,H.B.R B.D.A COMPLEX
+223,19C,56,Kempegowda Bus Stand,JAGAJEEVANRAM NAGAR
+224,19C,57A,Kempegowda Bus Stand,BAPUJINAGAR
+225,19C,58,Kempegowda Bus Stand,TIMBER YARD LAYOUT
+226,19C,58C,Kempegowda Bus Stand,TELECOM LAYOUT
+227,19C,59D,Kempegowda Bus Stand,NAYANDAHALLI RAILWAY GATE
+228,19C,218A,Kempegowda Bus Stand,KAMBIPURA
+229,19C,221A,Kempegowda Bus Stand,TAVAREKERE
+230,19C,300B,,BANASAWADI
+231,19C,300C,,K.R PURA
+232,19C,300H,,K.R PURA
+233,19C,301F,,THAMBUCHETTY PALYA
+234,19C,302A,,BABUSAB PALYA
+235,19C,302B,,KALYAN NAGAR
+236,19C,302F,,BABUSAB PALYA
+237,19C,302N,,KALYAN NAGAR
+238,20A,250AB,Kempegowda Bus Stand,MEDARAHALLI RAILWAY GATE
+239,20A,250B,Kempegowda Bus Stand,THAMMENAHALLI
+240,20A,250CA,Kempegowda Bus Stand,SAHYADRIBALAGA LAYOUT
+241,20A,250L,Kempegowda Bus Stand,MALLASANDRA HEALTH CENTER
+242,20A,250M,Kempegowda Bus Stand,M.E.I LAYOUT
+243,20A,250P,Kempegowda Bus Stand,CHIKKA BANAVARA
+244,20A,250S,,GELEYARA BALAGA
+245,20A,250SA,,KUDUREGERE
+246,20A,250SB,,SASUVE GHATTA
+247,20A,250TD,Kempegowda Bus Stand,KUDUREGERE
+248,20A,V-250ZA,Kempegowda Bus Stand,CHIKKA BANAVARA
+249,20A,253J,Kempegowda Bus Stand,HESARAGHATTA
+250,20A,253V,,THOTAGERE VILLAGE
+251,20C,258T,Kempegowda Bus Stand,KANNAMANGALA
+252,20C,258VA,Kempegowda Bus Stand,BYRASANDRA
+253,20C,258VB,Kempegowda Bus Stand,CHIKKAMARANAHALLI
+254,20C,258VD,Kempegowda Bus Stand,BETTASANDRA
+255,20C,258WA,Kempegowda Bus Stand,JODIRAGITHIMMASANDRA
+256,20C,261,Kempegowda Bus Stand,PEENYA 2ND STAGE
+257,20C,263D,Kempegowda Bus Stand,K.S.R GOWDA LYT
+258,20C,263F,Kempegowda Bus Stand,BYADARAHALLI
+259,20C,263G,GANGONDANAHALLI,GANGONDANAHALLI
+260,22,99A,,CHOWDESHWARI BUS STAND
+261,22,99B,,CHOWDESHWARI BUS STAND
+262,22,264A,,RING ROUTE
+263,22,266J,,MUTHKUR
+264,22,266T,,LAKSHMIPURA
+265,22,269,,RAMACHANDRAPURA
+266,22,269B,,VIDYARANYAPURA
+267,22,271A,,ABBIGERE
+268,22,271B,,KUVEMPUNAGAR 2ND STAGE
+269,22,271C,,SINGAPURA
+270,22,271E,,VEERA SAGARA
+271,22,271G,,SOMASHETTIHALLI
+272,22,271K,,MUTHYALA NAGAR TEMPLE
+273,22,271P,,RAGHAVENDRA BADAVANE
+274,22,271T,,JANAPRIYA GREEN WOOD APARTMENT
+275,22,271TA,,KEMPAGOWDA GARDEN
+276,22,273,,PEENYA 2ND STAGE
+277,22,273B,,MEDARAHALLI
+278,22,273C,,JALAHALLI CROSS
+279,22,273F,,PEENYA 2ND STAGE
+280,22,273J,,VISHWESHWARAIAH ENCLAVE
+281,22,275A,,RING ROUTE
+282,22,275C,,ISRO QUARTERS
+283,22A,276,,VIDYARANYAPURA
+284,22A,V-276,,VIDYARANYAPURA
+285,22A,276B,,VIRUPAKSHAPURA
+286,22A,276C,,LOTTEGOLLAHALLI
+287,22A,276K,,KODIGEHALLI ASHRAMA
+288,22A,276P,,LOTTEGOLLAHALLI
+289,23,280L,Kempegowda Bus Stand,YERAPPANAHALLI
+290,23,281A,Kempegowda Bus Stand,B.S.F
+291,23,281C,Kempegowda Bus Stand,I.A.F
+292,23,281F,Kempegowda Bus Stand,MYLANAHALLI
+293,23,281G,Kempegowda Bus Stand,BANDE KODIGEHALLI PALYA
+294,23,282F,Kempegowda Bus Stand,MARANAYAKANAHALLI
+295,23,282G,Kempegowda Bus Stand,KODAGALAHATTI
+296,23,283D,Kempegowda Bus Stand,KUDUREGERE COLONY
+297,23,284,Kempegowda Bus Stand,YELAHANKA
+298,23,289M,Kempegowda Bus Stand,BEGUR
+299,23,289Z,Kempegowda Bus Stand,BANDI KODIGEHALLI
+300,23,297G,Kempegowda Bus Stand,DODDACHIMMANAHALLI
+301,23A,284D,Kempegowda Bus Stand,YELAHANKA SATELLITE TOWN
+302,23A,402B,,YELAHANKA SATELLITE TOWN 4TH PHASE
+303,23A,402C,,ATTUR
+304,23A,402D,,YELAHANKA SATELLITE TOWN 4TH PHASE
+305,23A,406,,NELAMANGALA
+306,23B,285M,Kempegowda Bus Stand,DODDABALLAPURA
+307,23B,V-285M,Kempegowda Bus Stand,DODDABALLAPURA
+308,23B,285RC,Kempegowda Bus Stand,HESARAGHATTA VILLAGE
+309,23B,285W,Kempegowda Bus Stand,BASAVALINGAPPA NAGAR
+310,23D,279,,NAGASHETTI HALLI
+311,23D,279E,,HEBBAL
+312,23D,279H,,BHOOPASANDRA
+313,23D,279K,,PATALAPPA LAYOUT
+314,24,108B,Kempegowda Bus Stand,GANGANAGAR
+315,24,111C,Kempegowda Bus Stand,KAVALBYRASANDRA
+316,24,114C,Kempegowda Bus Stand,SULTHANAPALYA
+317,24,415B,Kempegowda Bus Stand,VISHWANATHA NAGENAHALLI
+318,24,415G,Kempegowda Bus Stand,SHAMPURA
+319,24,114B,,MANORAYANAPALYA
+320,25,104,,SADASHIVANAGAR
+321,25A,145,Kempegowda Bus Stand,NEELASANDRA
+322,25A,146,Kempegowda Bus Stand,VIVEK NAGAR
+323,25A,145A,Kempegowda Bus Stand,NEELASANDRA ROSE GARDEN
+324,25A,146B,Kempegowda Bus Stand,SRINIVAGILU
+325,25A,146E,Kempegowda Bus Stand,EJIPURA
+326,25B,340A,,RING ROUTE
+327,25B,340AA,,I.T.I LAYOUT WATER TANK
+328,25B,340H,,H.S.R 2ND SECTOR
+329,25B,341D,,BELLANDUR
+330,25B,341E,,HARALUR
+331,25B,342F,,SARJAPURA
+332,25B,342JB,,VALAGERA KALLAHALLI
+333,26A,348,Kempegowda Bus Stand,MANGAMMANA PALYA
+334,26A,347E,Kempegowda Bus Stand,SOMASUNDARAPALYA
+335,26A,347HD,Kempegowda Bus Stand,DEVENDRA NAGAR (CHIKKATHOGURU)
+336,26A,347L,Kempegowda Bus Stand,HOSAPALYA
+337,26B,351A,Kempegowda Bus Stand,NARAYANAGHATTA
+338,26B,351J,Kempegowda Bus Stand,HANDENAHALLI
+339,26B,352A,Kempegowda Bus Stand,HENNAGARA
+340,26B,352B,Kempegowda Bus Stand,MASTENAHALLI
+341,26B,353C,Kempegowda Bus Stand,JIGANI
+342,26B,354B,Kempegowda Bus Stand,SHETTIHALLI
+343,26B,354C,Kempegowda Bus Stand,MARASUR
+344,26B,355A,Kempegowda Bus Stand,SRIRAMPURA
+345,26B,355E,Kempegowda Bus Stand,BANDENALLASANDRA
+346,27,365B,Kempegowda Bus Stand,MALE NALLA SANDRA
+347,27,365D,Kempegowda Bus Stand,BILAVARADA HALLI
+348,27,365E,Kempegowda Bus Stand,SHYANUBHOGANA HALLI
+349,27,365K,Kempegowda Bus Stand,CHATTAKEREPALYA
+350,27,365R,Kempegowda Bus Stand,BASAVANAPURA CHURCH
+351,27,365S,Kempegowda Bus Stand,MUTTARAYANA DODDI
+352,27,365W,Kempegowda Bus Stand,VADERA MENCHENAHALLI
+353,27,367F,Kempegowda Bus Stand,PILLAGANAHALLI
+354,27,369C,,HULIMAVU
+355,27,369CA,,CHIKKAMMANAHALLI
+356,27,369D,,SHANTINIKETAN LAYOUT
+357,27,369F,,HOMMADEVANAHALLI
+358,27,369G,,CHIKKAMMANAHALLI
+359,27,369J,,C.K PALYA
+360,27,369K,,YELENAHALLI
+361,28A,317YB,Kempegowda Bus Stand,KHAJI HOSAHALLI
+362,28A,317YE,Kempegowda Bus Stand,GOVINDPURA
+363,28A,381,Kempegowda Bus Stand,THIMMASANDRA
+364,28A,381E,Kempegowda Bus Stand,KAMBALIPURA
+365,28A,382M,Kempegowda Bus Stand,CHIKKA KORATI
+366,28A,383A,Kempegowda Bus Stand,POOJENA AGRAHARA
+367,28A,383D,,MAKANAHALLI
+368,28A,KBS-12HK,,HOSAKOTE
+369,28A,316B,Kempegowda Bus Stand,BUDIGERE
+370,28A,316F,Kempegowda Bus Stand,CHEEMASANDRA
+371,28A,316G,Kempegowda Bus Stand,MANDOOR
+372,28A,316J,Kempegowda Bus Stand,KATTU GOLLAHALLI
+373,28A,316M,Kempegowda Bus Stand,SINGAHALLI
+374,28A,316Q,Kempegowda Bus Stand,KAGGALAHALLI
+375,28A,317P,Kempegowda Bus Stand,KANNAMANGALA
+376,28A,317V,Kempegowda Bus Stand,NADUVATHI
+377,29A,319G,Kempegowda Bus Stand,DR. AMBEDKAR NAGAR
+378,29A,320A,Kempegowda Bus Stand,NAGONDANAHALLI
+379,29A,321G,Kempegowda Bus Stand,MUTHKUR
+380,29A,322A,Kempegowda Bus Stand,TATTANUR
+381,29A,KBS-13K,Kempegowda Bus Stand,KADUGODI BUS STATION
+382,29C,333,,MARATHALLI BRIDGE
+383,29C,333C,,BASAVA NAGARA
+384,29C,333D,,CHINNAPPANA HALLI
+385,29C,333F,,DODDA NEKKUNDI
+386,29C,333H,,MUNE KOLALU
+387,29C,333N,,SEETHARAMAPALYA
+388,29C,333Q,,BHOGANAHALLI
+389,29C,334C,,B NAGASANDRA
+390,29C,336B,,KEMPAPURA
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,,
+,,,,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
+,,,Kempegowda Bus Stand,
